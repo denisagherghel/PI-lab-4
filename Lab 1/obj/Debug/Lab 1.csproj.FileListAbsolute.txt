@@ -1,0 +1,50 @@
+F:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+F:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+F:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+F:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab 1.csprojResolveAssemblyReference.cache
+F:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab_1.Form1.resources
+F:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+F:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.Cache
+F:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+F:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab 1.pdb
+E:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+E:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+E:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+E:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab 1.csprojResolveAssemblyReference.cache
+E:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab_1.Form1.resources
+E:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+E:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+E:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+E:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+E:\Anul III\Sem II\PI\Lab\Lab 1\Lab 1\obj\Debug\Lab 1.pdb
+E:\Anul III\Sem II\PI\Lab\Lab 2\Lab 1\bin\Debug\Lab 1.exe.config
+E:\Anul III\Sem II\PI\Lab\Lab 2\Lab 1\bin\Debug\Lab 1.exe
+E:\Anul III\Sem II\PI\Lab\Lab 2\Lab 1\bin\Debug\Lab 1.pdb
+E:\Anul III\Sem II\PI\Lab\Lab 2\Lab 1\obj\Debug\Lab 1.csprojResolveAssemblyReference.cache
+E:\Anul III\Sem II\PI\Lab\Lab 2\Lab 1\obj\Debug\Lab_1.Form1.resources
+E:\Anul III\Sem II\PI\Lab\Lab 2\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+E:\Anul III\Sem II\PI\Lab\Lab 2\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+E:\Anul III\Sem II\PI\Lab\Lab 2\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+E:\Anul III\Sem II\PI\Lab\Lab 2\Lab 1\obj\Debug\Lab 1.exe
+E:\Anul III\Sem II\PI\Lab\Lab 2\Lab 1\obj\Debug\Lab 1.pdb
+E:\Anul III\Sem II\PI\Lab\Lab 3\Lab 1\bin\Debug\Lab 1.exe.config
+E:\Anul III\Sem II\PI\Lab\Lab 3\Lab 1\bin\Debug\Lab 1.exe
+E:\Anul III\Sem II\PI\Lab\Lab 3\Lab 1\bin\Debug\Lab 1.pdb
+E:\Anul III\Sem II\PI\Lab\Lab 3\Lab 1\obj\Debug\Lab 1.csprojResolveAssemblyReference.cache
+E:\Anul III\Sem II\PI\Lab\Lab 3\Lab 1\obj\Debug\Lab_1.Form1.resources
+E:\Anul III\Sem II\PI\Lab\Lab 3\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+E:\Anul III\Sem II\PI\Lab\Lab 3\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+E:\Anul III\Sem II\PI\Lab\Lab 3\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+E:\Anul III\Sem II\PI\Lab\Lab 3\Lab 1\obj\Debug\Lab 1.exe
+E:\Anul III\Sem II\PI\Lab\Lab 3\Lab 1\obj\Debug\Lab 1.pdb
+E:\Anul III\Sem II\PI\Lab\Lab 4\Lab 1\bin\Debug\Lab 1.exe.config
+E:\Anul III\Sem II\PI\Lab\Lab 4\Lab 1\bin\Debug\Lab 1.exe
+E:\Anul III\Sem II\PI\Lab\Lab 4\Lab 1\bin\Debug\Lab 1.pdb
+E:\Anul III\Sem II\PI\Lab\Lab 4\Lab 1\obj\Debug\Lab 1.csprojResolveAssemblyReference.cache
+E:\Anul III\Sem II\PI\Lab\Lab 4\Lab 1\obj\Debug\Lab_1.Form1.resources
+E:\Anul III\Sem II\PI\Lab\Lab 4\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+E:\Anul III\Sem II\PI\Lab\Lab 4\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+E:\Anul III\Sem II\PI\Lab\Lab 4\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+E:\Anul III\Sem II\PI\Lab\Lab 4\Lab 1\obj\Debug\Lab 1.exe
+E:\Anul III\Sem II\PI\Lab\Lab 4\Lab 1\obj\Debug\Lab 1.pdb
+E:\Anul III\Sem II\PI\Lab\Lab 4\Lab 1\obj\Debug\Lab_1.Form2.resources
